@@ -30,7 +30,7 @@
 
 2. **Вопрос**  
    **Ответ:** а)  
-   **Ссылка на скриншот личного кабинета:** [https://github.com/Mazaich/final_ex.git](https://github.com/Mazaich/final_ex.git)
+   **Ссылка на скриншот личного кабинета:** [https://github.com/Mazaich/final_ex/blob/main/Скриншот%20на%20личный%20кабинет.png](https://github.com/Mazaich/final_ex/blob/main/Скриншот%20на%20личный%20кабинет.png)
 
 3. **Вопрос**  
    **Ответ:** а)
